@@ -1,1 +1,2 @@
-<a class="web-group-item" target="_blank" href="123.mdzz.plus/" title="MDZZ导航"><div class="web-group-icon" style="background-image: url(&quot;/media/images/Site/2018/07/14/c930fe68d5a04e23bdc6e5b05fbb443e.png&quot;);"></div><span class="web-group-name">MDZZ导航</span> </a>
+mdzz.plus云仓库
+<a href="https://123.mdzz.plus/">MDZZ导航</a>
